@@ -9,7 +9,7 @@ Summer of Code. We're looking for a few student interns to help write code. We e
 <ul>
 	<li> Very strong coding ability. Give us a link to some projects you've done.
 	<li> Very <i>clear</i> coding, commenting, and documentation writing skills.
-Your code not only has to be correct, it also has to be easy top understand, and easy to see the connection between your code and
+Your code not only has to be correct, but it also has to be easy to understand, and easy to see the connection between your code and
 the description of the algorithms in the textbook. 
     <li> Enthusiasm for helping other people by explaining things well.
 		Show us some examples of your work in this area.
@@ -36,7 +36,7 @@ hints, test it, and do performance load measurements to make sure it will hold u
 Finish implementing all the pseudocode algorithms in the book in Java. A majority of the algorithms
 from the 3rd edition are done, but there are some new ones in the upcoming 4th edition, as
 described in the <a href="https://github.com/aimacode/aima-pseudocode"><tt>aima-pseudocode</tt></a>
-project. Make sure the code follows the pseudocode well, and also shows good style. Also, provide
+project. Make sure the code follows the pseudocode well and also shows good style. Also, provide
 examples of usage, documentation, and thorough test cases.
 <b>Skills:</b> Java programming, documentation.
 <b>Possible mentors:</b> Peter Norvig
@@ -47,7 +47,7 @@ Finish implementing all the pseudocode algorithms in the book in Python. Almost 
 algorithms from the 3rd edition are done, but there are some new ones in the upcoming 4th edition,
 as described in the <a
 href="https://github.com/aimacode/aima-pseudocode"><tt>aima-pseudocode</tt></a> project. Make sure
-the code follows the pseudocode well, and also shows good style. Also, provide examples of usage,
+the code follows the pseudocode well and also shows good style. Also, provide examples of usage,
 documentation, and thorough test cases.
 <b>Skills:</b> Python programming, documentation.
 <b>Possible mentors:</b> Pierre de Lacaze
@@ -60,8 +60,7 @@ Using Jupyter/IPython or similar mechanisms, develop example worked projects tha
 
 <h2>(5) Container Notebooks</h2>
 
-Continuing the theme from (4) above, but demonstrating how to load an existing third-party open
-source framework, such as TensorFlow, Theano, Caffe, Keras, Torch, Stanford CoreNLP, NLTK, Sci-kit Learn, or Spark. Create a container (Docker or Kubernetes) that has all the dependencies, and a notebook and documentation that shows how to use it to solve an interesting real-world problem or set of problems.
+Continuing the theme from (4) above, but demonstrating how to load an existing third-party open-source framework, such as TensorFlow, Theano, Caffe, Keras, Torch, Stanford CoreNLP, NLTK, Sci-kit Learn, or Spark. Create a container (Docker or Kubernetes) that has all the dependencies and a notebook and documentation that shows how to use it to solve an interesting real-world problem or set of problems.
 <b>Skills:</b> familiarity with containers, attention to detail, good at explanations.
 <b>Possible mentors:</b> Peter Norvig
 
